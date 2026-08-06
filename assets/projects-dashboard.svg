@@ -1,0 +1,47 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#0f1725"/></linearGradient>
+    <style>
+      .t{font-family:Arial,sans-serif}.muted{fill:#93a4bb}.title{fill:white;font-weight:700}.label{fill:#60a5fa;font-weight:700}
+    </style>
+  </defs>
+  <rect width="1200" height="470" rx="28" fill="url(#bg2)"/>
+  <text x="60" y="62" class="t title" font-size="26">PROJECT MODULES</text>
+  <text x="60" y="88" class="t muted" font-size="14">Four systems, four different workflows</text>
+
+  <g transform="translate(60 120)">
+    <rect width="520" height="135" rx="20" fill="#101a28" stroke="#24344a"/>
+    <text x="26" y="38" class="t label" font-size="13">01 · HEALTHCARE SYSTEM</text>
+    <text x="26" y="74" class="t title" font-size="28">PHAQS</text>
+    <text x="26" y="102" class="t muted" font-size="14">Appointments · QR Check-in · Queue · Reports</text>
+    <circle cx="475" cy="35" r="8" fill="#22c55e"/>
+    <text x="492" y="40" class="t muted" font-size="12">COMPLETE</text>
+  </g>
+
+  <g transform="translate(620 120)">
+    <rect width="520" height="135" rx="20" fill="#101a28" stroke="#24344a"/>
+    <text x="26" y="38" class="t label" font-size="13">02 · DESKTOP APPLICATION</text>
+    <text x="26" y="74" class="t title" font-size="28">Cinema Ticketing</text>
+    <text x="26" y="102" class="t muted" font-size="14">Movies · Showtimes · Sales · Staff · Reports</text>
+    <circle cx="475" cy="35" r="8" fill="#22c55e"/>
+    <text x="492" y="40" class="t muted" font-size="12">COMPLETE</text>
+  </g>
+
+  <g transform="translate(60 285)">
+    <rect width="520" height="135" rx="20" fill="#101a28" stroke="#24344a"/>
+    <text x="26" y="38" class="t label" font-size="13">03 · NEWS WEBSITE</text>
+    <text x="26" y="74" class="t title" font-size="28">AshNews</text>
+    <text x="26" y="102" class="t muted" font-size="14">Categories · Search · API · Responsive UI</text>
+    <circle cx="475" cy="35" r="8" fill="#22c55e"/>
+    <text x="492" y="40" class="t muted" font-size="12">COMPLETE</text>
+  </g>
+
+  <g transform="translate(620 285)">
+    <rect width="520" height="135" rx="20" fill="#101a28" stroke="#24344a"/>
+    <text x="26" y="38" class="t label" font-size="13">04 · MOVIE DISCOVERY</text>
+    <text x="26" y="74" class="t title" font-size="28">CineVerse</text>
+    <text x="26" y="102" class="t muted" font-size="14">Search · Details · Trailers · Favorites · Watchlist</text>
+    <circle cx="475" cy="35" r="8" fill="#f59e0b"/>
+    <text x="492" y="40" class="t muted" font-size="12">IN PROGRESS</text>
+  </g>
+</svg>

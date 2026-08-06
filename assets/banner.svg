@@ -1,0 +1,37 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#08111f"/>
+      <stop offset="100%" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="150" fill="#2563eb" opacity=".14"/>
+  <circle cx="180" cy="320" r="130" fill="#8b5cf6" opacity=".12"/>
+  <rect x="55" y="42" width="1090" height="276" rx="24" fill="#0b1320" stroke="#273449"/>
+  <rect x="82" y="72" width="44" height="44" rx="12" fill="url(#accent)"/>
+  <text x="104" y="101" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">AM</text>
+  <text x="150" y="89" fill="#93a4bb" font-family="Arial, sans-serif" font-size="16" font-weight="700">ASHLEY OS</text>
+  <text x="150" y="111" fill="#53657b" font-family="Arial, sans-serif" font-size="12">Developer profile · v2026.1</text>
+  <circle cx="1052" cy="91" r="7" fill="#22c55e"/>
+  <text x="1070" y="96" fill="#9fb0c5" font-family="Arial, sans-serif" font-size="13">Open for internship</text>
+
+  <text x="82" y="180" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="700">Ashley Amira DJ. Marcelo</text>
+  <text x="82" y="225" fill="url(#accent)" font-family="Arial, sans-serif" font-size="26" font-weight="700">Aspiring Software Engineer</text>
+  <text x="82" y="265" fill="#9fb0c5" font-family="Arial, sans-serif" font-size="18">
+    Building practical software for healthcare, desktop operations, and modern web experiences.
+  </text>
+
+  <rect x="82" y="287" width="185" height="32" rx="16" fill="#111c2b" stroke="#2f4056"/>
+  <text x="175" y="308" text-anchor="middle" fill="#d7e4f2" font-family="Arial, sans-serif" font-size="13">Bulacan, Philippines</text>
+  <rect x="282" y="287" width="260" height="32" rx="16" fill="#111c2b" stroke="#2f4056"/>
+  <text x="412" y="308" text-anchor="middle" fill="#d7e4f2" font-family="Arial, sans-serif" font-size="13">BS Information Technology</text>
+</svg>
