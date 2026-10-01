@@ -1,78 +1,120 @@
 # Ashley Amira DJ. Marcelo
 
-Building practical software for healthcare, desktop applications, and modern web experiences.
+**Fourth-Year BS Information Technology Student | Software Development & Quality Assurance**
+
+I am a fourth-year Information Technology student with hands-on experience in developing web and desktop applications, database-driven systems, and software testing.
+
+My work focuses on building practical and reliable software solutions with an emphasis on functionality, usability, maintainability, and software quality.
 
 ---
 
-## About
+## About Me
 
-I enjoy building software that solves real-world problems through clean interfaces, structured databases, and reliable application logic.
-
-My projects include healthcare systems, desktop applications, responsive websites, and API-based interfaces.
+- Fourth-year **BS Information Technology** student
+- Based in **Bulacan, Philippines**
+- Interested in **Software Development and Quality Assurance**
+- Experience in developing web and desktop applications
+- Familiar with functional testing, debugging, and QA documentation
+- Experienced in working with relational databases and API-based applications
+- Comfortable working independently and in collaborative development environments
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Frontend**  
-HTML • CSS • JavaScript • Bootstrap
+**Programming & Development**  
+`HTML` `CSS` `JavaScript` `PHP` `C#`
 
-**Backend**  
-PHP • MySQL • Google OAuth
+**Frameworks & Technologies**  
+`Bootstrap` `.NET` `Windows Forms`
 
-**Desktop**  
-C# • Windows Forms
+**Database**  
+`MySQL`
 
-**Tools**  
-Git • GitHub • VS Code • Visual Studio • XAMPP • Figma
+**Quality Assurance**  
+`Functional Testing` `Test Case Documentation` `Bug Identification` `Debugging`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Visual Studio Code` `Visual Studio` `XAMPP` `Figma`
 
 ---
 
 ## Featured Projects
 
-### PHAQS
-Pulilan Health Center Appointment and Queue System
+### PHAQS — Pulilan Health Appointment and Queuing System
 
-A full-stack web system for appointment booking, QR check-in, queue monitoring, RHU information, reports, announcements, and administrative operations.
+A healthcare management system developed to improve appointment scheduling and patient queue management for local health centers.
 
-`PHP` `MySQL` `JavaScript` `Bootstrap`
+**Key Features**
+- Online appointment scheduling
+- QR-based patient check-in
+- Real-time queue monitoring
+- Patient and RHU information management
+- Announcements and notifications
+- Administrative reports and records
+
+**Technologies:** `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 ---
 
 ### Cinema Ticketing System
 
-A desktop application for movie management, showtime scheduling, ticket sales, staff records, and reports.
+A Windows desktop application designed to manage cinema operations and ticket transactions.
 
-`C#` `Windows Forms` `MySQL`
+**Key Features**
+- Movie and showtime management
+- Seat availability management
+- Ticket sales and payment processing
+- Staff account management
+- Transaction records and reports
+
+**Technologies:** `C#` `.NET` `Windows Forms` `MySQL`
 
 ---
 
 ### AshNews
 
-A responsive news website with categories, search, clean article layouts, and API-based content.
+A responsive news website that organizes news content across multiple categories and provides search and API-based content retrieval.
 
-`HTML` `CSS` `JavaScript`
+**Technologies:** `HTML` `CSS` `JavaScript` `REST API`
 
 ---
 
 ### CineVerse
 
-A movie discovery website with search, movie details, trailers, favorites, and watchlist features.
+A movie discovery application that allows users to browse and search movies, view detailed information, and manage favorites and watchlists.
 
-`HTML` `CSS` `JavaScript`
+**Technologies:** `HTML` `CSS` `JavaScript`
 
 ---
 
-## GitHub Stats
+### RICE-REUSE
+
+A hardware and software project designed to support wastewater filtration, monitoring, and water reuse for irrigation.
+
+**Technologies:** `Arduino` `Sensors` `Hardware Integration`
+
+---
+
+## Certifications
+
+- Introduction to Front-End Development
+- Introduction to Modern AI — Cisco Networking Academy
+- Networking Devices and Initial Configuration — Cisco Networking Academy
+- Hardware and Upgrade Support — Cisco Networking Academy
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashleyamira&show_icons=true&hide_border=true&theme=github_dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleyamira&layout=compact&hide_border=true&theme=github_dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashleyamira&show_icons=true&hide_border=true&theme=github_dark" height="165" alt="Ashley Marcelo GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleyamira&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Ashley Marcelo Most Used Languages">
 </p>
 
 ---
 
-## Connect
+## Contact
 
 **Email:** [ashleyamira04@gmail.com](mailto:ashleyamira04@gmail.com)  
 **LinkedIn:** [Ashley Marcelo](https://ph.linkedin.com/in/ashley-marcelo-79929040b)  
@@ -80,4 +122,4 @@ A movie discovery website with search, movie details, trailers, favorites, and w
 
 ---
 
-Building software with purpose.
+*Focused on building reliable software and continuously improving through development, testing, and hands-on experience.*
